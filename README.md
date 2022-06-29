@@ -1,4 +1,4 @@
-# Original [Repo]([actual URL to navigate](https://gitlab.com/uprefer/flutter/flutter_application_id))
+# Original [Repo](https://gitlab.com/uprefer/flutter/flutter_application_id)
 
 
 
