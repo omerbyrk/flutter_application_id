@@ -1,6 +1,4 @@
-# [Original Repo](https://gitlab.com/uprefer/flutter/flutter_application_id)
-
-# Flutter App Id
+# Flutter App Id ([Original Repo](https://gitlab.com/uprefer/flutter/flutter_application_id))
 
 A command-line tool to update your Flutter app's **Name** (displayed name) and **ID** (iOS BundleID and Android applicationId).
 
